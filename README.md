@@ -1,7 +1,4 @@
 # project_riboflavin
 
-This repository contains the necessary code to conduct analysis and reproduce the images from XX. 
-
-The precalculated results are stored in the data folder. The required trajectories are freely available at XX for all analyses except the water analysis.
-
-Simulations for the water analysis are available upon request due to the large storage requirements
+This repository contains the necessary code to conduct analysis and reproduce the images from the work XX. 
+The precalculated results are stored in the data folder. Input files to perform the simulations, along with the output trajectories that we generated in our work are freely available at YY
